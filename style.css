@@ -1,0 +1,17 @@
+/* format sfor my recipes */
+
+h1 {
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: chocolate;
+}
+
+a {
+    color: chocolate;
+}
